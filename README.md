@@ -14,5 +14,19 @@ The data needs to be processed to fit the machine learning models. To group the 
 * Visualizing Cryptocurrencies Results  
 
 
-## Resuls:
+## Resuls:  
 
+### Initial Data Frame before cleaning contains 1255 rows of data  
+![pic](https://github.com/ElenaMasarsky/Cryptocurrencies/blob/main/Resources/initial_df.png)  
+
+### Cleaned Data Frame consists of 532 rows of data  
+![pic](https://github.com/ElenaMasarsky/Cryptocurrencies/blob/main/Resources/cleaned_df.png)  
+
+### Elbow Curve indicates the best value for K=4  
+![pic](https://github.com/ElenaMasarsky/Cryptocurrencies/blob/main/Resources/elbow_curve.png)  
+
+### 3D Scatterplot with Clusters, Visualizing Tradable Cryptocurrencies  
+![pic](https://github.com/ElenaMasarsky/Cryptocurrencies/blob/main/Resources/3D_scatter.png)  
+
+### Tradable Cryptocurrencies Scatter Plot
+![pic](https://github.com/ElenaMasarsky/Cryptocurrencies/blob/main/Resources/scatter_plot.png)  
